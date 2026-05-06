@@ -135,12 +135,6 @@ O sistema ainda está em evolução e pode receber melhorias futuras, como aprim
 
 ---
 
-## 👥 Equipe
-
-Projeto desenvolvido em grupo por estudantes da Fatec como parte de uma atividade acadêmica.
-
----
-
 ## 🎯 Objetivo acadêmico
 
 O projeto tem como objetivo aplicar conhecimentos de desenvolvimento web, integração entre frontend e backend, consumo de APIs, autenticação, modelagem de dados e organização de um sistema completo em equipe.
